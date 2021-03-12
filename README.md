@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @glutinousriceball
 - 👀 I’m interested in JAVA and AI
 - 🌱 I’m currently learning springcloud
-- 📫 My blog is [Aifurion](https://aifurion.com/)
+- 📫 My blog is [aifurion](https://aifurion.com/)
 
 <!---
 glutinousriceball/glutinousriceball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
