@@ -1,10 +1,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=glutinousriceball&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+### 你好，世界 👋
 - 👋 Hi, I’m @glutinousriceball
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in JAVA and AI
+- 🌱 I’m currently learning springcloud
+- 📫 My blog is [Aifurion](https://aifurion.com/)
 
 <!---
 glutinousriceball/glutinousriceball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
