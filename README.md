@@ -2,7 +2,7 @@
 
 ### Hello world! 👋
 - 👋 Hi, I’m @glutinousriceball
-- 👀 I’m interested in JAVA and AI
+- 👀 I’m interested in JAVA and BigData
 - 🌱 I’m currently learning springcloud
 - 📫 My blog is [aifurion](https://aifurion.com/)
 
